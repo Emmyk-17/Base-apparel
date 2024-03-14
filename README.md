@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Emmyk-17/Base-apparel)
+- Live Site URL: [Add live site URL here](https://emmyk-17.github.io/Base-apparel/)
 
 ## My process
 
@@ -78,6 +78,5 @@ if(input.value.match(/^[A-Za-z\._\-0-9]*[@][A-Za-z]*[\.][a-z]{2,4}$/)) {
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Emmanuel](https://github.com/Emmyk-17)
+- Frontend Mentor - [@Emmyk-17](https://www.frontendmentor.io/profile/Emmyk-17)
